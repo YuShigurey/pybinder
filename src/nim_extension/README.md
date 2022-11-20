@@ -1,0 +1,1 @@
+nim c -d:release --app:lib --no_main test.nim

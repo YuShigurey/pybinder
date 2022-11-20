@@ -1,0 +1,10 @@
+.idea
+.tox
+build
+dist
+*.egg
+*.egg-info
+pybind11
+test
+*.pyc
+*.so
